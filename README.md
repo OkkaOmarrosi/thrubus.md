@@ -20,7 +20,7 @@ Selamat Layanan anda telah selesai, Terimakasih semoga selalu di berikan kesehat
 #### Pesanan Di Bayar Customer
 **Order Invoice A21212JN**
 
-Pesanan Telah Di Bayar, Siapkan Mobil Anda Untuk Layanan. Uang Akan Anda Terima Paling Lambat 3 hari Setelah Order Close.
+Pesanan Telah Di Bayar, Siapkan Mobil Anda Untuk Layanan. {Tipe Mobil} dengan Nopol {Nopol} Telah **Terjadwal**. Uang Akan Anda Terima Paling Lambat 3 hari Setelah Order Close. 
 
 --------------------------------------
 
@@ -34,7 +34,7 @@ mobil anda sudah dapat anda tampilkan ke aplikasi thrubus customer kami.
 
 **Mobil Anda telah di ajukan Verifikasi**
 
-Terimakasih sudah menjadi bagian dari thrubus. kami akan mengecek data yang sudah di ajukan, mohon di tunggu terimakasih.
+Terimakasih sudah menjadi bagian dari thrubus. kami akan mengecek data yang sudah di ajukan, mohon di tunggu terimakasih. 
 
 --------------------------------------
 
