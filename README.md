@@ -17,6 +17,13 @@ Selamat Layanan anda telah selesai, Terimakasih semoga selalu di berikan kesehat
 
 --------------------------------------
 
+#### Pesanan Di Bayar Customer
+**Order Invoice A21212JN**
+
+Pesanan Telah Di Bayar, Siapkan Mobil Anda Untuk Layanan. Uang Akan Anda Terima Paling Lambat 3 hari Setelah Order Close.
+
+--------------------------------------
+
 ### Notifikasi Mobil
 
 **Mobil Anda Berhasil Terverifikasi**
