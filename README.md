@@ -31,6 +31,26 @@ Terimakasih sudah menjadi bagian dari thrubus. kami akan mengecek data yang suda
 
 --------------------------------------
 
+## Notifikasi Customer
+
+#### Pembayaran Berhasil
+
+Terimakasih Pembayaran Anda Telah Berhasil dan sudah kami terima.
+
+--------------------------------------
+
+#### Driver Sedang Menuju Lokasi | (Order Proses notifikasi terkirim ketika driver menuju ke lokasi penjemputan)
+
+Segera Bersiap Driver Sedang Menuju Ke Lokasi Anda.
+
+--------------------------------------
+#### Pesanan Selesai
+
+Pesanan Anda Telah Selesai, Terimakasih Sudah Menggunakan Jasa Layanan Thrubus. Sampai Bertemu Di Lain Kesempatan Sehat Sehat Orang Baik.
+
+--------------------------------------
+
+
 ## Isi Halaman Kosong
     
 ### Halaman Pesanan
