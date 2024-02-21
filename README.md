@@ -1,6 +1,6 @@
 # Thrubus Asset
 
-## Notifikasi 
+## Notifikasi Mitra
 
 ### Notifikasi Order
 #### Proses order
